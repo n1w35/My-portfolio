@@ -71,8 +71,9 @@ p {
 }
 
 .email-link {
-  display: flex;
-  justify-content: center;
+  display: block;
+  margin: auto;
+  text-align: center;
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
